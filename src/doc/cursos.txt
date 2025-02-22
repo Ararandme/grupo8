@@ -1,0 +1,10 @@
+1212;Engineering;2;1;1
+1213;Medicine;3;2;2
+1214;Business Administration;1;3;3
+1215;Law;4;4;4
+1216;Computer Science;2;5;5
+1217;Architecture;5;6;6
+1218;Psychology;3;3;2
+1219;Nursing;1;2;4
+1220;Economics;2;4;3
+1221;Graphic Design;4;5;2

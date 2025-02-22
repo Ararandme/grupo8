@@ -1,0 +1,6 @@
+admin,admin123,admin
+usuario,usuario1,usuario
+usuario,usuario2,usuario
+usuario,usuario3,usuario
+usuario,usuario4,usuario
+,,admin
